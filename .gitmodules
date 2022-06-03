@@ -1,0 +1,3 @@
+[submodule "fluttersubmoduleappone"]
+	path = fluttersubmoduleappone
+	url = https://github.com/vishalk386/fluttersubmoduleappone.git
